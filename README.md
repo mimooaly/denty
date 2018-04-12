@@ -1,0 +1,2 @@
+# denty
+my first repository
